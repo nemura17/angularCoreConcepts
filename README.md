@@ -1,5 +1,7 @@
 # Scrimba
 
+You can view it here - https://angularcoreconcepts-qklv72ajw.vercel.app/customers
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.0.
 
 ## Development server
